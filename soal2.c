@@ -60,9 +60,9 @@ int main() {
 
     // Cetak hasil sesuai output format
     if (cycle_detected) {
-        printf("TIDAK BISA\n");
+        printf("TIDAK​ BISA\n");
     } else {
-        printf("BISA\n");
+        printf("BISA​\n");
     }
 
     return 0;
